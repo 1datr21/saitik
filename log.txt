@@ -1,0 +1,3907 @@
+2024-11-06 17:03:34 : Array
+(
+    [0] => Array
+        (
+            [id] => 39
+            [user_id] => 1
+            [refresh_token] => 14d1629ab02a3537e4abe5130c6bd0cf
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDkwMDkxMSwiZXhwIjoxNzMwOTAwOTcxLCJ1aWQiOiIxIn0.wOdv72E_r3QtCRa7_nRrq2PQsYeuIHX17kcHKg_BSlU
+            [rtoken_old] => e460f02dc9d5252c7b9a60400fb8ef18
+            [rt_expire] => 2024-11-06 16:03:31
+        )
+
+    [1] => Array
+        (
+            [id] => 40
+            [user_id] => 1
+            [refresh_token] => 0592554da4a7ff29e5df49bb6ab3cc0b
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDkwMTIyMiwiZXhwIjoxNzMwOTAxMjgyLCJ1aWQiOiIxIn0.MqIqBCDrbSKZSgXkvfmty_BjAbiKogTsK6vC5P8Kqms
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-06 17:02:42
+        )
+
+)
+
+2024-11-06 17:04:46 : 505ea1ed6b5cb379959e116075399d6c
+2024-11-06 17:04:46 : Array
+(
+    [id] => 42
+    [user_id] => 1
+    [refresh_token] => 505ea1ed6b5cb379959e116075399d6c
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDkwMTc3NiwiZXhwIjoxNzMwOTAxODM2LCJ1aWQiOiIxIn0.jxkHBjyt6EkzV27xhIeNfNvgxkw78hlXH6OyVNc1HDY
+    [rtoken_old] => a272c4b7b0dd5b27e8e11b976a0be69f
+    [rt_expire] => 2024-11-06 17:17:56
+)
+
+2024-11-06 17:04:46 : SELECT * FROM tokens WHERE refresh_token='505ea1ed6b5cb379959e116075399d6c'
+2024-11-06 17:04:46 : DateTime Object
+(
+    [date] => 2024-11-06 17:19:46.608802
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-06 17:04:46 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 42
+            [user_id] => 1
+            [refresh_token] => 505ea1ed6b5cb379959e116075399d6c
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDkwMTc3NiwiZXhwIjoxNzMwOTAxODM2LCJ1aWQiOiIxIn0.jxkHBjyt6EkzV27xhIeNfNvgxkw78hlXH6OyVNc1HDY
+            [rtoken_old] => a272c4b7b0dd5b27e8e11b976a0be69f
+            [rt_expire] => 2024-11-06 17:17:56
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 42
+                    [user_id] => 1
+                    [refresh_token] => 505ea1ed6b5cb379959e116075399d6c
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDkwMTc3NiwiZXhwIjoxNzMwOTAxODM2LCJ1aWQiOiIxIn0.jxkHBjyt6EkzV27xhIeNfNvgxkw78hlXH6OyVNc1HDY
+                    [rtoken_old] => a272c4b7b0dd5b27e8e11b976a0be69f
+                    [rt_expire] => 2024-11-06 17:17:56
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-06 17:06:03 : 8a3f87e9260e7b85e8baef64d13392f6
+2024-11-06 17:06:03 : Array
+(
+    [id] => 42
+    [user_id] => 1
+    [refresh_token] => 8a3f87e9260e7b85e8baef64d13392f6
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDkwMTg4NiwiZXhwIjoxNzMwOTAxOTQ2LCJ1aWQiOiIxIn0.dSAXO780SkpzSUHWRSYk8D57zheoJmQx-t_XOrOWvBc
+    [rtoken_old] => 505ea1ed6b5cb379959e116075399d6c
+    [rt_expire] => 2024-11-06 17:19:46
+)
+
+2024-11-06 17:06:03 : SELECT * FROM tokens WHERE refresh_token='8a3f87e9260e7b85e8baef64d13392f6'
+2024-11-06 17:06:04 : DateTime Object
+(
+    [date] => 2024-11-06 17:21:04.001851
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-06 17:06:04 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 42
+            [user_id] => 1
+            [refresh_token] => 8a3f87e9260e7b85e8baef64d13392f6
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDkwMTg4NiwiZXhwIjoxNzMwOTAxOTQ2LCJ1aWQiOiIxIn0.dSAXO780SkpzSUHWRSYk8D57zheoJmQx-t_XOrOWvBc
+            [rtoken_old] => 505ea1ed6b5cb379959e116075399d6c
+            [rt_expire] => 2024-11-06 17:19:46
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 42
+                    [user_id] => 1
+                    [refresh_token] => 8a3f87e9260e7b85e8baef64d13392f6
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDkwMTg4NiwiZXhwIjoxNzMwOTAxOTQ2LCJ1aWQiOiIxIn0.dSAXO780SkpzSUHWRSYk8D57zheoJmQx-t_XOrOWvBc
+                    [rtoken_old] => 505ea1ed6b5cb379959e116075399d6c
+                    [rt_expire] => 2024-11-06 17:19:46
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-06 17:19:11 : Array
+(
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDkwMjc1MSwiZXhwIjoxNzMwOTAyODExLCJ1aWQiOiIxIn0.DX0NrGbbugO0_9CL9Z1FkuNjLQBq0VN5KICaeTFkNfo
+    [refresh_token] => afb4628ad7904380a49c77d9c6be1682
+)
+
+2024-11-07 10:17:49 : Array
+(
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDk2Mzg2OSwiZXhwIjoxNzMwOTYzOTI5LCJ1aWQiOiIxIn0.tm7z_mR2AUlKTV1PV754a1DKF6ObYyk84wNxEOBPTQ4
+    [refresh_token] => e6cb3dda480a27c27d953f3784dfa571
+)
+
+2024-11-07 11:02:50 : Array
+(
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDk2NjU3MCwiZXhwIjoxNzMwOTY2NjMwLCJ1aWQiOiIxIn0.EaRIi8d4ndAimrCFjymhG8pKNHRwE0sCIIHpbWeN3go
+    [refresh_token] => 6683a268886ed61a06ec93b14bd93dba
+)
+
+2024-11-07 11:13:45 : 6683a268886ed61a06ec93b14bd93dba
+2024-11-07 11:13:45 : Array
+(
+    [id] => 45
+    [user_id] => 1
+    [refresh_token] => 6683a268886ed61a06ec93b14bd93dba
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDk2NjU3MCwiZXhwIjoxNzMwOTY2NjMwLCJ1aWQiOiIxIn0.EaRIi8d4ndAimrCFjymhG8pKNHRwE0sCIIHpbWeN3go
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-07 11:17:50
+)
+
+2024-11-07 11:13:45 : SELECT * FROM tokens WHERE refresh_token='6683a268886ed61a06ec93b14bd93dba'
+2024-11-07 11:13:45 : DateTime Object
+(
+    [date] => 2024-11-07 11:28:45.563316
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-07 11:13:45 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 45
+            [user_id] => 1
+            [refresh_token] => 6683a268886ed61a06ec93b14bd93dba
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDk2NjU3MCwiZXhwIjoxNzMwOTY2NjMwLCJ1aWQiOiIxIn0.EaRIi8d4ndAimrCFjymhG8pKNHRwE0sCIIHpbWeN3go
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-07 11:17:50
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 45
+                    [user_id] => 1
+                    [refresh_token] => 6683a268886ed61a06ec93b14bd93dba
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDk2NjU3MCwiZXhwIjoxNzMwOTY2NjMwLCJ1aWQiOiIxIn0.EaRIi8d4ndAimrCFjymhG8pKNHRwE0sCIIHpbWeN3go
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-07 11:17:50
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-07 15:39:33 : Array
+(
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDk4MzE3MiwiZXhwIjoxNzMwOTgzMjMyLCJ1aWQiOiIxIn0.XQzsigyFbx95MevSNgHZ4DS_ZhDeyYrXmNnbFwkG1UQ
+    [refresh_token] => e10f53dbb6a5bdc9f4313b036ffe3b35
+)
+
+2024-11-07 15:45:22 : Array
+(
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDk4MzUyMiwiZXhwIjoxNzMwOTgzNTgyLCJ1aWQiOiIxIn0.m9Fbo2x--TUO3YDzcLHHgkXgNl8ND8napp-6S9Q7ENw
+    [refresh_token] => f559f2d4473c35243f61464b17e10ecf
+)
+
+2024-11-07 16:04:02 : Array
+(
+    [id] => 48
+    [user_id] => 1
+    [refresh_token] => 74ec13c3a61bb63b1dca38af148fb728
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDk4NDU0OSwiZXhwIjoxNzMwOTg0NjA5LCJ1aWQiOiIxIn0.bQ-9B6SfCCA7hZ008nPZjLFvjaIp1m1F2ZhrX6Qtyh0
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-07 16:17:29
+)
+
+2024-11-07 16:04:02 : SELECT * FROM tokens WHERE refresh_token='74ec13c3a61bb63b1dca38af148fb728'
+2024-11-07 16:04:02 : DateTime Object
+(
+    [date] => 2024-11-07 16:19:02.510803
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-07 16:04:02 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 48
+            [user_id] => 1
+            [refresh_token] => 74ec13c3a61bb63b1dca38af148fb728
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDk4NDU0OSwiZXhwIjoxNzMwOTg0NjA5LCJ1aWQiOiIxIn0.bQ-9B6SfCCA7hZ008nPZjLFvjaIp1m1F2ZhrX6Qtyh0
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-07 16:17:29
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 48
+                    [user_id] => 1
+                    [refresh_token] => 74ec13c3a61bb63b1dca38af148fb728
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDk4NDU0OSwiZXhwIjoxNzMwOTg0NjA5LCJ1aWQiOiIxIn0.bQ-9B6SfCCA7hZ008nPZjLFvjaIp1m1F2ZhrX6Qtyh0
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-07 16:17:29
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-07 16:12:26 : Array
+(
+    [id] => 50
+    [user_id] => 1
+    [refresh_token] => 8c93a9b08afc237c23468fd35639a953
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDk4NDkyMiwiZXhwIjoxNzMwOTg0OTgyLCJ1aWQiOiIxIn0.Dd1jwBSHUERSCeFayJVLxNUTHZFuhhmXB2JlqCZOw3I
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-07 16:23:42
+)
+
+2024-11-07 16:12:26 : SELECT * FROM tokens WHERE refresh_token='8c93a9b08afc237c23468fd35639a953'
+2024-11-07 16:12:26 : DateTime Object
+(
+    [date] => 2024-11-07 16:27:26.631787
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-07 16:12:26 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 50
+            [user_id] => 1
+            [refresh_token] => 8c93a9b08afc237c23468fd35639a953
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDk4NDkyMiwiZXhwIjoxNzMwOTg0OTgyLCJ1aWQiOiIxIn0.Dd1jwBSHUERSCeFayJVLxNUTHZFuhhmXB2JlqCZOw3I
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-07 16:23:42
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 50
+                    [user_id] => 1
+                    [refresh_token] => 8c93a9b08afc237c23468fd35639a953
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMDk4NDkyMiwiZXhwIjoxNzMwOTg0OTgyLCJ1aWQiOiIxIn0.Dd1jwBSHUERSCeFayJVLxNUTHZFuhhmXB2JlqCZOw3I
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-07 16:23:42
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 08:52:42 : Array
+(
+    [id] => 52
+    [user_id] => 1
+    [refresh_token] => 55592a7275401a39034c5f4d969e1436
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NTA2MiwiZXhwIjoxNzMxMDQ1MTIyLCJ1aWQiOiIxIn0.VIm_yuKcbnZ3Un7jIqkbra_pEWgmjwiwy7Ho23NC0-0
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-08 09:06:02
+)
+
+2024-11-08 08:52:42 : SELECT * FROM tokens WHERE refresh_token='55592a7275401a39034c5f4d969e1436'
+2024-11-08 08:52:42 : DateTime Object
+(
+    [date] => 2024-11-08 09:07:42.753161
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 08:52:42 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 52
+            [user_id] => 1
+            [refresh_token] => 55592a7275401a39034c5f4d969e1436
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NTA2MiwiZXhwIjoxNzMxMDQ1MTIyLCJ1aWQiOiIxIn0.VIm_yuKcbnZ3Un7jIqkbra_pEWgmjwiwy7Ho23NC0-0
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-08 09:06:02
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 52
+                    [user_id] => 1
+                    [refresh_token] => 55592a7275401a39034c5f4d969e1436
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NTA2MiwiZXhwIjoxNzMxMDQ1MTIyLCJ1aWQiOiIxIn0.VIm_yuKcbnZ3Un7jIqkbra_pEWgmjwiwy7Ho23NC0-0
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-08 09:06:02
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 09:19:39 : Array
+(
+    [id] => 53
+    [user_id] => 1
+    [refresh_token] => 5c408545535b60cc9da2bfdbd0dd58cc
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NjcxNiwiZXhwIjoxNzMxMDQ2Nzc2LCJ1aWQiOiIxIn0.JyRTWGBtn1hiRJSALG68O4vPdTQ0thvfPlhn3cykZoo
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-08 09:33:36
+)
+
+2024-11-08 09:19:39 : SELECT * FROM tokens WHERE refresh_token='5c408545535b60cc9da2bfdbd0dd58cc'
+2024-11-08 09:19:39 : DateTime Object
+(
+    [date] => 2024-11-08 09:34:39.430690
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 09:19:39 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 53
+            [user_id] => 1
+            [refresh_token] => 5c408545535b60cc9da2bfdbd0dd58cc
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NjcxNiwiZXhwIjoxNzMxMDQ2Nzc2LCJ1aWQiOiIxIn0.JyRTWGBtn1hiRJSALG68O4vPdTQ0thvfPlhn3cykZoo
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-08 09:33:36
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 53
+                    [user_id] => 1
+                    [refresh_token] => 5c408545535b60cc9da2bfdbd0dd58cc
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NjcxNiwiZXhwIjoxNzMxMDQ2Nzc2LCJ1aWQiOiIxIn0.JyRTWGBtn1hiRJSALG68O4vPdTQ0thvfPlhn3cykZoo
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-08 09:33:36
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 09:22:32 : Array
+(
+    [id] => 53
+    [user_id] => 1
+    [refresh_token] => 359d11793904be371e0aab249044dca4
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0Njc3OSwiZXhwIjoxNzMxMDQ2ODM5LCJ1aWQiOiIxIn0.gkwH8_ac44ftI7ojr9Z_JisBChjmWkNV9GvqjUeoaWE
+    [rtoken_old] => 5c408545535b60cc9da2bfdbd0dd58cc
+    [rt_expire] => 2024-11-08 09:34:39
+)
+
+2024-11-08 09:22:32 : SELECT * FROM tokens WHERE refresh_token='359d11793904be371e0aab249044dca4'
+2024-11-08 09:22:32 : DateTime Object
+(
+    [date] => 2024-11-08 09:37:32.200669
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 09:22:32 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 53
+            [user_id] => 1
+            [refresh_token] => 359d11793904be371e0aab249044dca4
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0Njc3OSwiZXhwIjoxNzMxMDQ2ODM5LCJ1aWQiOiIxIn0.gkwH8_ac44ftI7ojr9Z_JisBChjmWkNV9GvqjUeoaWE
+            [rtoken_old] => 5c408545535b60cc9da2bfdbd0dd58cc
+            [rt_expire] => 2024-11-08 09:34:39
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 53
+                    [user_id] => 1
+                    [refresh_token] => 359d11793904be371e0aab249044dca4
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0Njc3OSwiZXhwIjoxNzMxMDQ2ODM5LCJ1aWQiOiIxIn0.gkwH8_ac44ftI7ojr9Z_JisBChjmWkNV9GvqjUeoaWE
+                    [rtoken_old] => 5c408545535b60cc9da2bfdbd0dd58cc
+                    [rt_expire] => 2024-11-08 09:34:39
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 09:24:24 : Array
+(
+    [id] => 53
+    [user_id] => 1
+    [refresh_token] => 0fa1283e3da92421d3be6bdf21538713
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0Njk1MiwiZXhwIjoxNzMxMDQ3MDEyLCJ1aWQiOiIxIn0.9-pIUNxfGkGzNwy_IDlD3dzMzv20NhVkgIMFdpShnyU
+    [rtoken_old] => 359d11793904be371e0aab249044dca4
+    [rt_expire] => 2024-11-08 09:37:32
+)
+
+2024-11-08 09:24:24 : SELECT * FROM tokens WHERE refresh_token='0fa1283e3da92421d3be6bdf21538713'
+2024-11-08 09:24:24 : DateTime Object
+(
+    [date] => 2024-11-08 09:39:24.042921
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 09:24:24 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 53
+            [user_id] => 1
+            [refresh_token] => 0fa1283e3da92421d3be6bdf21538713
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0Njk1MiwiZXhwIjoxNzMxMDQ3MDEyLCJ1aWQiOiIxIn0.9-pIUNxfGkGzNwy_IDlD3dzMzv20NhVkgIMFdpShnyU
+            [rtoken_old] => 359d11793904be371e0aab249044dca4
+            [rt_expire] => 2024-11-08 09:37:32
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 53
+                    [user_id] => 1
+                    [refresh_token] => 0fa1283e3da92421d3be6bdf21538713
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0Njk1MiwiZXhwIjoxNzMxMDQ3MDEyLCJ1aWQiOiIxIn0.9-pIUNxfGkGzNwy_IDlD3dzMzv20NhVkgIMFdpShnyU
+                    [rtoken_old] => 359d11793904be371e0aab249044dca4
+                    [rt_expire] => 2024-11-08 09:37:32
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 09:26:13 : Array
+(
+    [id] => 53
+    [user_id] => 1
+    [refresh_token] => 770c71fd9caa679c34401059a5f87a4d
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NzA2NCwiZXhwIjoxNzMxMDQ3MTI0LCJ1aWQiOiIxIn0.40vTf8GwJR6EykMECaHrWffQqWl-wJSpKFvKyWqrjY4
+    [rtoken_old] => 0fa1283e3da92421d3be6bdf21538713
+    [rt_expire] => 2024-11-08 09:39:24
+)
+
+2024-11-08 09:26:13 : SELECT * FROM tokens WHERE refresh_token='770c71fd9caa679c34401059a5f87a4d'
+2024-11-08 09:26:13 : DateTime Object
+(
+    [date] => 2024-11-08 09:41:13.508609
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 09:26:13 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 53
+            [user_id] => 1
+            [refresh_token] => 770c71fd9caa679c34401059a5f87a4d
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NzA2NCwiZXhwIjoxNzMxMDQ3MTI0LCJ1aWQiOiIxIn0.40vTf8GwJR6EykMECaHrWffQqWl-wJSpKFvKyWqrjY4
+            [rtoken_old] => 0fa1283e3da92421d3be6bdf21538713
+            [rt_expire] => 2024-11-08 09:39:24
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 53
+                    [user_id] => 1
+                    [refresh_token] => 770c71fd9caa679c34401059a5f87a4d
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NzA2NCwiZXhwIjoxNzMxMDQ3MTI0LCJ1aWQiOiIxIn0.40vTf8GwJR6EykMECaHrWffQqWl-wJSpKFvKyWqrjY4
+                    [rtoken_old] => 0fa1283e3da92421d3be6bdf21538713
+                    [rt_expire] => 2024-11-08 09:39:24
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 09:31:53 : Array
+(
+    [id] => 53
+    [user_id] => 1
+    [refresh_token] => 7a5c678900bd19139f5431b129ff0e2b
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NzE3MywiZXhwIjoxNzMxMDQ3MjMzLCJ1aWQiOiIxIn0.M7KrdJtmOuqPgoIIKBbQmxyk4VjYRNSLifCSXsPisd0
+    [rtoken_old] => 770c71fd9caa679c34401059a5f87a4d
+    [rt_expire] => 2024-11-08 09:41:13
+)
+
+2024-11-08 09:31:53 : SELECT * FROM tokens WHERE refresh_token='7a5c678900bd19139f5431b129ff0e2b'
+2024-11-08 09:31:53 : DateTime Object
+(
+    [date] => 2024-11-08 09:46:53.578399
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 09:31:53 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 53
+            [user_id] => 1
+            [refresh_token] => 7a5c678900bd19139f5431b129ff0e2b
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NzE3MywiZXhwIjoxNzMxMDQ3MjMzLCJ1aWQiOiIxIn0.M7KrdJtmOuqPgoIIKBbQmxyk4VjYRNSLifCSXsPisd0
+            [rtoken_old] => 770c71fd9caa679c34401059a5f87a4d
+            [rt_expire] => 2024-11-08 09:41:13
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 53
+                    [user_id] => 1
+                    [refresh_token] => 7a5c678900bd19139f5431b129ff0e2b
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NzE3MywiZXhwIjoxNzMxMDQ3MjMzLCJ1aWQiOiIxIn0.M7KrdJtmOuqPgoIIKBbQmxyk4VjYRNSLifCSXsPisd0
+                    [rtoken_old] => 770c71fd9caa679c34401059a5f87a4d
+                    [rt_expire] => 2024-11-08 09:41:13
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 09:35:18 : Array
+(
+    [id] => 53
+    [user_id] => 1
+    [refresh_token] => 9b3b7933591c79ad52936b9a825391ef
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NzUxMywiZXhwIjoxNzMxMDQ3NTczLCJ1aWQiOiIxIn0.NSlLdlwPMzx7VPfFq6dbX4rZw-bbqLxw5yv9jzZ_ePk
+    [rtoken_old] => 7a5c678900bd19139f5431b129ff0e2b
+    [rt_expire] => 2024-11-08 09:46:53
+)
+
+2024-11-08 09:35:18 : SELECT * FROM tokens WHERE refresh_token='9b3b7933591c79ad52936b9a825391ef'
+2024-11-08 09:35:18 : DateTime Object
+(
+    [date] => 2024-11-08 09:50:18.798773
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 09:35:18 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 53
+            [user_id] => 1
+            [refresh_token] => 9b3b7933591c79ad52936b9a825391ef
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NzUxMywiZXhwIjoxNzMxMDQ3NTczLCJ1aWQiOiIxIn0.NSlLdlwPMzx7VPfFq6dbX4rZw-bbqLxw5yv9jzZ_ePk
+            [rtoken_old] => 7a5c678900bd19139f5431b129ff0e2b
+            [rt_expire] => 2024-11-08 09:46:53
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 53
+                    [user_id] => 1
+                    [refresh_token] => 9b3b7933591c79ad52936b9a825391ef
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NzUxMywiZXhwIjoxNzMxMDQ3NTczLCJ1aWQiOiIxIn0.NSlLdlwPMzx7VPfFq6dbX4rZw-bbqLxw5yv9jzZ_ePk
+                    [rtoken_old] => 7a5c678900bd19139f5431b129ff0e2b
+                    [rt_expire] => 2024-11-08 09:46:53
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 09:41:26 : Array
+(
+    [id] => 53
+    [user_id] => 1
+    [refresh_token] => 9b07240acdc3623197ae9db58cfb748b
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NzcxOCwiZXhwIjoxNzMxMDQ3Nzc4LCJ1aWQiOiIxIn0.DbFq_HtDpZsdd4uuuLGRHUpLexyLdmzNX8qazlgwFNo
+    [rtoken_old] => 9b3b7933591c79ad52936b9a825391ef
+    [rt_expire] => 2024-11-08 09:50:18
+)
+
+2024-11-08 09:41:26 : SELECT * FROM tokens WHERE refresh_token='9b07240acdc3623197ae9db58cfb748b'
+2024-11-08 09:41:26 : DateTime Object
+(
+    [date] => 2024-11-08 09:56:26.140064
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 09:41:26 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 53
+            [user_id] => 1
+            [refresh_token] => 9b07240acdc3623197ae9db58cfb748b
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NzcxOCwiZXhwIjoxNzMxMDQ3Nzc4LCJ1aWQiOiIxIn0.DbFq_HtDpZsdd4uuuLGRHUpLexyLdmzNX8qazlgwFNo
+            [rtoken_old] => 9b3b7933591c79ad52936b9a825391ef
+            [rt_expire] => 2024-11-08 09:50:18
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 53
+                    [user_id] => 1
+                    [refresh_token] => 9b07240acdc3623197ae9db58cfb748b
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0NzcxOCwiZXhwIjoxNzMxMDQ3Nzc4LCJ1aWQiOiIxIn0.DbFq_HtDpZsdd4uuuLGRHUpLexyLdmzNX8qazlgwFNo
+                    [rtoken_old] => 9b3b7933591c79ad52936b9a825391ef
+                    [rt_expire] => 2024-11-08 09:50:18
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 09:42:56 : Array
+(
+    [id] => 53
+    [user_id] => 1
+    [refresh_token] => 31310c958678db49577f9b06ce05e609
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0ODA4NiwiZXhwIjoxNzMxMDQ4MTQ2LCJ1aWQiOiIxIn0.O4tcBRrTBoNUwwTj7JUjyxGgIOROHfHGVyBH3NcO9is
+    [rtoken_old] => 9b07240acdc3623197ae9db58cfb748b
+    [rt_expire] => 2024-11-08 09:56:26
+)
+
+2024-11-08 09:42:56 : SELECT * FROM tokens WHERE refresh_token='31310c958678db49577f9b06ce05e609'
+2024-11-08 09:42:56 : DateTime Object
+(
+    [date] => 2024-11-08 09:57:56.459592
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 09:42:56 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 53
+            [user_id] => 1
+            [refresh_token] => 31310c958678db49577f9b06ce05e609
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0ODA4NiwiZXhwIjoxNzMxMDQ4MTQ2LCJ1aWQiOiIxIn0.O4tcBRrTBoNUwwTj7JUjyxGgIOROHfHGVyBH3NcO9is
+            [rtoken_old] => 9b07240acdc3623197ae9db58cfb748b
+            [rt_expire] => 2024-11-08 09:56:26
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 53
+                    [user_id] => 1
+                    [refresh_token] => 31310c958678db49577f9b06ce05e609
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0ODA4NiwiZXhwIjoxNzMxMDQ4MTQ2LCJ1aWQiOiIxIn0.O4tcBRrTBoNUwwTj7JUjyxGgIOROHfHGVyBH3NcO9is
+                    [rtoken_old] => 9b07240acdc3623197ae9db58cfb748b
+                    [rt_expire] => 2024-11-08 09:56:26
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 10:06:22 : Array
+(
+    [id] => 54
+    [user_id] => 1
+    [refresh_token] => b2735d886a2b3e477bfc5fea6cf3f593
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0OTI1MywiZXhwIjoxNzMxMDQ5MzEzLCJ1aWQiOiIxIn0.mHmpt5yY-jC7ck8I3WsprONnO9hJesbbkoQkuwMjRus
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-08 10:15:53
+)
+
+2024-11-08 10:06:22 : SELECT * FROM tokens WHERE refresh_token='b2735d886a2b3e477bfc5fea6cf3f593'
+2024-11-08 10:06:22 : DateTime Object
+(
+    [date] => 2024-11-08 10:21:22.539928
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 10:06:22 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 54
+            [user_id] => 1
+            [refresh_token] => b2735d886a2b3e477bfc5fea6cf3f593
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0OTI1MywiZXhwIjoxNzMxMDQ5MzEzLCJ1aWQiOiIxIn0.mHmpt5yY-jC7ck8I3WsprONnO9hJesbbkoQkuwMjRus
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-08 10:15:53
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 54
+                    [user_id] => 1
+                    [refresh_token] => b2735d886a2b3e477bfc5fea6cf3f593
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0OTI1MywiZXhwIjoxNzMxMDQ5MzEzLCJ1aWQiOiIxIn0.mHmpt5yY-jC7ck8I3WsprONnO9hJesbbkoQkuwMjRus
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-08 10:15:53
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 10:08:54 : Array
+(
+    [id] => 54
+    [user_id] => 1
+    [refresh_token] => 548ce4bb56a45cfc067e566c35125530
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0OTU4MiwiZXhwIjoxNzMxMDQ5NjQyLCJ1aWQiOiIxIn0.rSG6ST0zyx5GbZw4lAToIDn-beQri2FdBJVyITp5XFY
+    [rtoken_old] => b2735d886a2b3e477bfc5fea6cf3f593
+    [rt_expire] => 2024-11-08 10:21:22
+)
+
+2024-11-08 10:08:54 : SELECT * FROM tokens WHERE refresh_token='548ce4bb56a45cfc067e566c35125530'
+2024-11-08 10:08:54 : DateTime Object
+(
+    [date] => 2024-11-08 10:23:54.126866
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 10:08:54 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 54
+            [user_id] => 1
+            [refresh_token] => 548ce4bb56a45cfc067e566c35125530
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0OTU4MiwiZXhwIjoxNzMxMDQ5NjQyLCJ1aWQiOiIxIn0.rSG6ST0zyx5GbZw4lAToIDn-beQri2FdBJVyITp5XFY
+            [rtoken_old] => b2735d886a2b3e477bfc5fea6cf3f593
+            [rt_expire] => 2024-11-08 10:21:22
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 54
+                    [user_id] => 1
+                    [refresh_token] => 548ce4bb56a45cfc067e566c35125530
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0OTU4MiwiZXhwIjoxNzMxMDQ5NjQyLCJ1aWQiOiIxIn0.rSG6ST0zyx5GbZw4lAToIDn-beQri2FdBJVyITp5XFY
+                    [rtoken_old] => b2735d886a2b3e477bfc5fea6cf3f593
+                    [rt_expire] => 2024-11-08 10:21:22
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 10:12:52 : Array
+(
+    [id] => 54
+    [user_id] => 1
+    [refresh_token] => 184e32838137f87fd245fd041eb03fbb
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0OTczNCwiZXhwIjoxNzMxMDQ5Nzk0LCJ1aWQiOiIxIn0.e0J-eKa8JCyIoj_i0qQx8Rz3TxIic3mNbN6P9raB-EY
+    [rtoken_old] => 548ce4bb56a45cfc067e566c35125530
+    [rt_expire] => 2024-11-08 10:23:54
+)
+
+2024-11-08 10:12:52 : SELECT * FROM tokens WHERE refresh_token='184e32838137f87fd245fd041eb03fbb'
+2024-11-08 10:12:52 : DateTime Object
+(
+    [date] => 2024-11-08 10:27:52.248662
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 10:12:52 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 54
+            [user_id] => 1
+            [refresh_token] => 184e32838137f87fd245fd041eb03fbb
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0OTczNCwiZXhwIjoxNzMxMDQ5Nzk0LCJ1aWQiOiIxIn0.e0J-eKa8JCyIoj_i0qQx8Rz3TxIic3mNbN6P9raB-EY
+            [rtoken_old] => 548ce4bb56a45cfc067e566c35125530
+            [rt_expire] => 2024-11-08 10:23:54
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 54
+                    [user_id] => 1
+                    [refresh_token] => 184e32838137f87fd245fd041eb03fbb
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA0OTczNCwiZXhwIjoxNzMxMDQ5Nzk0LCJ1aWQiOiIxIn0.e0J-eKa8JCyIoj_i0qQx8Rz3TxIic3mNbN6P9raB-EY
+                    [rtoken_old] => 548ce4bb56a45cfc067e566c35125530
+                    [rt_expire] => 2024-11-08 10:23:54
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 10:39:59 : Array
+(
+    [id] => 55
+    [user_id] => 1
+    [refresh_token] => ecf6e4903579b1ff13056bd3bdfaee56
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA1MTI2MiwiZXhwIjoxNzMxMDUxMzIyLCJ1aWQiOiIxIn0.oovUwjfs3XG8bzHEtWmF9Qnu5tPwi4_rT6_8218ZZpc
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-08 10:49:22
+)
+
+2024-11-08 10:39:59 : SELECT * FROM tokens WHERE refresh_token='ecf6e4903579b1ff13056bd3bdfaee56'
+2024-11-08 10:39:59 : DateTime Object
+(
+    [date] => 2024-11-08 10:54:59.875945
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 10:39:59 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 55
+            [user_id] => 1
+            [refresh_token] => ecf6e4903579b1ff13056bd3bdfaee56
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA1MTI2MiwiZXhwIjoxNzMxMDUxMzIyLCJ1aWQiOiIxIn0.oovUwjfs3XG8bzHEtWmF9Qnu5tPwi4_rT6_8218ZZpc
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-08 10:49:22
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 55
+                    [user_id] => 1
+                    [refresh_token] => ecf6e4903579b1ff13056bd3bdfaee56
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA1MTI2MiwiZXhwIjoxNzMxMDUxMzIyLCJ1aWQiOiIxIn0.oovUwjfs3XG8bzHEtWmF9Qnu5tPwi4_rT6_8218ZZpc
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-08 10:49:22
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 14:21:15 : Array
+(
+    [id] => 57
+    [user_id] => 1
+    [refresh_token] => 47c4a2fd5678d493b7893f26112d8c8d
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA2NDc3NywiZXhwIjoxNzMxMDY0ODM3LCJ1aWQiOiIxIn0.RhEHQvecH8xgKr8syQQ0ZhSN-Vuh9JgVqF6_fxs1L5U
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-08 14:34:37
+)
+
+2024-11-08 14:21:15 : SELECT * FROM tokens WHERE refresh_token='47c4a2fd5678d493b7893f26112d8c8d'
+2024-11-08 14:21:15 : DateTime Object
+(
+    [date] => 2024-11-08 14:36:15.319056
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 14:21:15 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 57
+            [user_id] => 1
+            [refresh_token] => 47c4a2fd5678d493b7893f26112d8c8d
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA2NDc3NywiZXhwIjoxNzMxMDY0ODM3LCJ1aWQiOiIxIn0.RhEHQvecH8xgKr8syQQ0ZhSN-Vuh9JgVqF6_fxs1L5U
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-08 14:34:37
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 57
+                    [user_id] => 1
+                    [refresh_token] => 47c4a2fd5678d493b7893f26112d8c8d
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA2NDc3NywiZXhwIjoxNzMxMDY0ODM3LCJ1aWQiOiIxIn0.RhEHQvecH8xgKr8syQQ0ZhSN-Vuh9JgVqF6_fxs1L5U
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-08 14:34:37
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-08 15:05:07 : Array
+(
+    [id] => 58
+    [user_id] => 1
+    [refresh_token] => d3fe27d4eee2cf1c7979b87dbd12d86b
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA2NzA1MCwiZXhwIjoxNzMxMDY3MTEwLCJ1aWQiOiIxIn0.oqt5yFBoPVWrb27uqgP-t7u2WOVwF9rtXADyvn907ZM
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-08 15:12:30
+)
+
+2024-11-08 15:05:07 : SELECT * FROM tokens WHERE refresh_token='d3fe27d4eee2cf1c7979b87dbd12d86b'
+2024-11-08 15:05:07 : DateTime Object
+(
+    [date] => 2024-11-08 15:20:07.506840
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-08 15:05:07 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 58
+            [user_id] => 1
+            [refresh_token] => d3fe27d4eee2cf1c7979b87dbd12d86b
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA2NzA1MCwiZXhwIjoxNzMxMDY3MTEwLCJ1aWQiOiIxIn0.oqt5yFBoPVWrb27uqgP-t7u2WOVwF9rtXADyvn907ZM
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-08 15:12:30
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 58
+                    [user_id] => 1
+                    [refresh_token] => d3fe27d4eee2cf1c7979b87dbd12d86b
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTA2NzA1MCwiZXhwIjoxNzMxMDY3MTEwLCJ1aWQiOiIxIn0.oqt5yFBoPVWrb27uqgP-t7u2WOVwF9rtXADyvn907ZM
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-08 15:12:30
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-11 16:58:33 : Array
+(
+    [id] => 61
+    [user_id] => 1
+    [refresh_token] => 1e0d954bc910038129fe3da0a86b30f0
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzMjY5MywiZXhwIjoxNzMxMzMyNzUzLCJ1aWQiOiIxIn0.EOh1nk_Ss1fAc8buSqr6Nem4YCYQa5jRUpLixjnDL7Q
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-11 16:59:53
+)
+
+2024-11-11 16:58:33 : SELECT * FROM tokens WHERE refresh_token='1e0d954bc910038129fe3da0a86b30f0'
+2024-11-11 16:58:33 : DateTime Object
+(
+    [date] => 2024-11-11 17:13:33.327330
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-11 16:58:33 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 61
+            [user_id] => 1
+            [refresh_token] => 1e0d954bc910038129fe3da0a86b30f0
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzMjY5MywiZXhwIjoxNzMxMzMyNzUzLCJ1aWQiOiIxIn0.EOh1nk_Ss1fAc8buSqr6Nem4YCYQa5jRUpLixjnDL7Q
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-11 16:59:53
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 61
+                    [user_id] => 1
+                    [refresh_token] => 1e0d954bc910038129fe3da0a86b30f0
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzMjY5MywiZXhwIjoxNzMxMzMyNzUzLCJ1aWQiOiIxIn0.EOh1nk_Ss1fAc8buSqr6Nem4YCYQa5jRUpLixjnDL7Q
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-11 16:59:53
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-11 16:59:43 : Array
+(
+    [id] => 61
+    [user_id] => 1
+    [refresh_token] => 966bfcdf86c607290f9737101aa23962
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzMzUxMywiZXhwIjoxNzMxMzMzNTczLCJ1aWQiOiIxIn0.mxwKrNPA7tXgbXcU1eJkvTEU-NTqhCljxf5Gvul9eNY
+    [rtoken_old] => 1e0d954bc910038129fe3da0a86b30f0
+    [rt_expire] => 2024-11-11 17:13:33
+)
+
+2024-11-11 16:59:43 : SELECT * FROM tokens WHERE refresh_token='966bfcdf86c607290f9737101aa23962'
+2024-11-11 16:59:43 : DateTime Object
+(
+    [date] => 2024-11-11 17:14:43.133622
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-11 16:59:43 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 61
+            [user_id] => 1
+            [refresh_token] => 966bfcdf86c607290f9737101aa23962
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzMzUxMywiZXhwIjoxNzMxMzMzNTczLCJ1aWQiOiIxIn0.mxwKrNPA7tXgbXcU1eJkvTEU-NTqhCljxf5Gvul9eNY
+            [rtoken_old] => 1e0d954bc910038129fe3da0a86b30f0
+            [rt_expire] => 2024-11-11 17:13:33
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 61
+                    [user_id] => 1
+                    [refresh_token] => 966bfcdf86c607290f9737101aa23962
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzMzUxMywiZXhwIjoxNzMxMzMzNTczLCJ1aWQiOiIxIn0.mxwKrNPA7tXgbXcU1eJkvTEU-NTqhCljxf5Gvul9eNY
+                    [rtoken_old] => 1e0d954bc910038129fe3da0a86b30f0
+                    [rt_expire] => 2024-11-11 17:13:33
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-11 17:03:58 : Array
+(
+    [id] => 61
+    [user_id] => 1
+    [refresh_token] => 2be635ce10da00e932592375ad205f07
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzMzU4MywiZXhwIjoxNzMxMzMzNjQzLCJ1aWQiOiIxIn0.ohGRqMwz9SwfVJq5JVVONGOCmDZvB6MveC8btmUcc18
+    [rtoken_old] => 966bfcdf86c607290f9737101aa23962
+    [rt_expire] => 2024-11-11 17:14:43
+)
+
+2024-11-11 17:03:58 : SELECT * FROM tokens WHERE refresh_token='2be635ce10da00e932592375ad205f07'
+2024-11-11 17:03:58 : DateTime Object
+(
+    [date] => 2024-11-11 17:18:58.236567
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-11 17:03:58 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 61
+            [user_id] => 1
+            [refresh_token] => 2be635ce10da00e932592375ad205f07
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzMzU4MywiZXhwIjoxNzMxMzMzNjQzLCJ1aWQiOiIxIn0.ohGRqMwz9SwfVJq5JVVONGOCmDZvB6MveC8btmUcc18
+            [rtoken_old] => 966bfcdf86c607290f9737101aa23962
+            [rt_expire] => 2024-11-11 17:14:43
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 61
+                    [user_id] => 1
+                    [refresh_token] => 2be635ce10da00e932592375ad205f07
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzMzU4MywiZXhwIjoxNzMxMzMzNjQzLCJ1aWQiOiIxIn0.ohGRqMwz9SwfVJq5JVVONGOCmDZvB6MveC8btmUcc18
+                    [rtoken_old] => 966bfcdf86c607290f9737101aa23962
+                    [rt_expire] => 2024-11-11 17:14:43
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-11 17:09:00 : Array
+(
+    [id] => 61
+    [user_id] => 1
+    [refresh_token] => af4c87e165e293241d825700ceaee301
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzMzgzOCwiZXhwIjoxNzMxMzMzODk4LCJ1aWQiOiIxIn0.4fylaj5zqQGfzVO96ul5lmGJ7JyMUFPCQ4xeQfD3Gl4
+    [rtoken_old] => 2be635ce10da00e932592375ad205f07
+    [rt_expire] => 2024-11-11 17:18:58
+)
+
+2024-11-11 17:09:00 : SELECT * FROM tokens WHERE refresh_token='af4c87e165e293241d825700ceaee301'
+2024-11-11 17:09:00 : DateTime Object
+(
+    [date] => 2024-11-11 17:24:00.337662
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-11 17:09:00 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 61
+            [user_id] => 1
+            [refresh_token] => af4c87e165e293241d825700ceaee301
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzMzgzOCwiZXhwIjoxNzMxMzMzODk4LCJ1aWQiOiIxIn0.4fylaj5zqQGfzVO96ul5lmGJ7JyMUFPCQ4xeQfD3Gl4
+            [rtoken_old] => 2be635ce10da00e932592375ad205f07
+            [rt_expire] => 2024-11-11 17:18:58
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 61
+                    [user_id] => 1
+                    [refresh_token] => af4c87e165e293241d825700ceaee301
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzMzgzOCwiZXhwIjoxNzMxMzMzODk4LCJ1aWQiOiIxIn0.4fylaj5zqQGfzVO96ul5lmGJ7JyMUFPCQ4xeQfD3Gl4
+                    [rtoken_old] => 2be635ce10da00e932592375ad205f07
+                    [rt_expire] => 2024-11-11 17:18:58
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-11 17:21:27 : Array
+(
+    [id] => 61
+    [user_id] => 1
+    [refresh_token] => 7938ab92a2390a8504487be9cae16598
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzNDE0MCwiZXhwIjoxNzMxMzM0MjAwLCJ1aWQiOiIxIn0.2lfIuHbub-M8YGxJ7n8G1gpjdk9L6Amo6z5OTyU-hho
+    [rtoken_old] => af4c87e165e293241d825700ceaee301
+    [rt_expire] => 2024-11-11 17:24:00
+)
+
+2024-11-11 17:21:27 : SELECT * FROM tokens WHERE refresh_token='7938ab92a2390a8504487be9cae16598'
+2024-11-11 17:21:27 : DateTime Object
+(
+    [date] => 2024-11-11 17:36:27.178325
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-11 17:21:27 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 61
+            [user_id] => 1
+            [refresh_token] => 7938ab92a2390a8504487be9cae16598
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzNDE0MCwiZXhwIjoxNzMxMzM0MjAwLCJ1aWQiOiIxIn0.2lfIuHbub-M8YGxJ7n8G1gpjdk9L6Amo6z5OTyU-hho
+            [rtoken_old] => af4c87e165e293241d825700ceaee301
+            [rt_expire] => 2024-11-11 17:24:00
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 61
+                    [user_id] => 1
+                    [refresh_token] => 7938ab92a2390a8504487be9cae16598
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTMzNDE0MCwiZXhwIjoxNzMxMzM0MjAwLCJ1aWQiOiIxIn0.2lfIuHbub-M8YGxJ7n8G1gpjdk9L6Amo6z5OTyU-hho
+                    [rtoken_old] => af4c87e165e293241d825700ceaee301
+                    [rt_expire] => 2024-11-11 17:24:00
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-12 16:14:50 : Array
+(
+    [id] => 64
+    [user_id] => 1
+    [refresh_token] => fb8119399d69bcc402c1919fa73d60c6
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNjgxOSwiZXhwIjoxNzMxNDE2ODc5LCJ1aWQiOiIxIn0.XeU5mXsG1GkKV7ZQEbPImtxCOY3X4-rc94btdedQnyY
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-12 16:21:59
+)
+
+2024-11-12 16:14:50 : SELECT * FROM tokens WHERE refresh_token='fb8119399d69bcc402c1919fa73d60c6'
+2024-11-12 16:14:51 : DateTime Object
+(
+    [date] => 2024-11-12 16:29:51.047237
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-12 16:14:51 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 64
+            [user_id] => 1
+            [refresh_token] => fb8119399d69bcc402c1919fa73d60c6
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNjgxOSwiZXhwIjoxNzMxNDE2ODc5LCJ1aWQiOiIxIn0.XeU5mXsG1GkKV7ZQEbPImtxCOY3X4-rc94btdedQnyY
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-12 16:21:59
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 64
+                    [user_id] => 1
+                    [refresh_token] => fb8119399d69bcc402c1919fa73d60c6
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNjgxOSwiZXhwIjoxNzMxNDE2ODc5LCJ1aWQiOiIxIn0.XeU5mXsG1GkKV7ZQEbPImtxCOY3X4-rc94btdedQnyY
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-12 16:21:59
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-12 16:16:15 : Array
+(
+    [id] => 64
+    [user_id] => 1
+    [refresh_token] => 6b45f88cb66a87e079e2701d5bd22ab8
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNzI5MSwiZXhwIjoxNzMxNDE3MzUxLCJ1aWQiOiIxIn0.YZQtG2TNv88R_s9NKBv9H6nACKjZIDr_3mXIMEvweD4
+    [rtoken_old] => fb8119399d69bcc402c1919fa73d60c6
+    [rt_expire] => 2024-11-12 16:29:51
+)
+
+2024-11-12 16:16:15 : SELECT * FROM tokens WHERE refresh_token='6b45f88cb66a87e079e2701d5bd22ab8'
+2024-11-12 16:16:15 : DateTime Object
+(
+    [date] => 2024-11-12 16:31:15.885512
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-12 16:16:15 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 64
+            [user_id] => 1
+            [refresh_token] => 6b45f88cb66a87e079e2701d5bd22ab8
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNzI5MSwiZXhwIjoxNzMxNDE3MzUxLCJ1aWQiOiIxIn0.YZQtG2TNv88R_s9NKBv9H6nACKjZIDr_3mXIMEvweD4
+            [rtoken_old] => fb8119399d69bcc402c1919fa73d60c6
+            [rt_expire] => 2024-11-12 16:29:51
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 64
+                    [user_id] => 1
+                    [refresh_token] => 6b45f88cb66a87e079e2701d5bd22ab8
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNzI5MSwiZXhwIjoxNzMxNDE3MzUxLCJ1aWQiOiIxIn0.YZQtG2TNv88R_s9NKBv9H6nACKjZIDr_3mXIMEvweD4
+                    [rtoken_old] => fb8119399d69bcc402c1919fa73d60c6
+                    [rt_expire] => 2024-11-12 16:29:51
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-12 16:17:33 : Array
+(
+    [id] => 64
+    [user_id] => 1
+    [refresh_token] => f9d4e93d77ca336d62c50d3c52fcec9d
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNzM3NSwiZXhwIjoxNzMxNDE3NDM1LCJ1aWQiOiIxIn0.qfojbJngfD6BjunAROe0r1zDvgIaQ4NorTOPsIDpXes
+    [rtoken_old] => 6b45f88cb66a87e079e2701d5bd22ab8
+    [rt_expire] => 2024-11-12 16:31:15
+)
+
+2024-11-12 16:17:33 : SELECT * FROM tokens WHERE refresh_token='f9d4e93d77ca336d62c50d3c52fcec9d'
+2024-11-12 16:17:33 : DateTime Object
+(
+    [date] => 2024-11-12 16:32:33.881418
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-12 16:17:33 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 64
+            [user_id] => 1
+            [refresh_token] => f9d4e93d77ca336d62c50d3c52fcec9d
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNzM3NSwiZXhwIjoxNzMxNDE3NDM1LCJ1aWQiOiIxIn0.qfojbJngfD6BjunAROe0r1zDvgIaQ4NorTOPsIDpXes
+            [rtoken_old] => 6b45f88cb66a87e079e2701d5bd22ab8
+            [rt_expire] => 2024-11-12 16:31:15
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 64
+                    [user_id] => 1
+                    [refresh_token] => f9d4e93d77ca336d62c50d3c52fcec9d
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNzM3NSwiZXhwIjoxNzMxNDE3NDM1LCJ1aWQiOiIxIn0.qfojbJngfD6BjunAROe0r1zDvgIaQ4NorTOPsIDpXes
+                    [rtoken_old] => 6b45f88cb66a87e079e2701d5bd22ab8
+                    [rt_expire] => 2024-11-12 16:31:15
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-12 16:21:58 : Array
+(
+    [id] => 64
+    [user_id] => 1
+    [refresh_token] => d5456e3e8d5ca19583daf382d75f7d78
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNzQ1MywiZXhwIjoxNzMxNDE3NTEzLCJ1aWQiOiIxIn0.p_k8DHGHAd2k629Rg8nyBaTnTPYn9LZJiDK10q0MImQ
+    [rtoken_old] => f9d4e93d77ca336d62c50d3c52fcec9d
+    [rt_expire] => 2024-11-12 16:32:33
+)
+
+2024-11-12 16:21:58 : SELECT * FROM tokens WHERE refresh_token='d5456e3e8d5ca19583daf382d75f7d78'
+2024-11-12 16:21:58 : DateTime Object
+(
+    [date] => 2024-11-12 16:36:58.162646
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-12 16:21:58 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 64
+            [user_id] => 1
+            [refresh_token] => d5456e3e8d5ca19583daf382d75f7d78
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNzQ1MywiZXhwIjoxNzMxNDE3NTEzLCJ1aWQiOiIxIn0.p_k8DHGHAd2k629Rg8nyBaTnTPYn9LZJiDK10q0MImQ
+            [rtoken_old] => f9d4e93d77ca336d62c50d3c52fcec9d
+            [rt_expire] => 2024-11-12 16:32:33
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 64
+                    [user_id] => 1
+                    [refresh_token] => d5456e3e8d5ca19583daf382d75f7d78
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNzQ1MywiZXhwIjoxNzMxNDE3NTEzLCJ1aWQiOiIxIn0.p_k8DHGHAd2k629Rg8nyBaTnTPYn9LZJiDK10q0MImQ
+                    [rtoken_old] => f9d4e93d77ca336d62c50d3c52fcec9d
+                    [rt_expire] => 2024-11-12 16:32:33
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-12 16:23:24 : Array
+(
+    [id] => 64
+    [user_id] => 1
+    [refresh_token] => 934ff6faa10f6a70940c6cb03fea7fe6
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNzcxOCwiZXhwIjoxNzMxNDE3Nzc4LCJ1aWQiOiIxIn0.r-aR5p_LXWYO_SaXlCe9jYsbS3jxGVmASMaVioq3E0M
+    [rtoken_old] => d5456e3e8d5ca19583daf382d75f7d78
+    [rt_expire] => 2024-11-12 16:36:58
+)
+
+2024-11-12 16:23:24 : SELECT * FROM tokens WHERE refresh_token='934ff6faa10f6a70940c6cb03fea7fe6'
+2024-11-12 16:23:24 : DateTime Object
+(
+    [date] => 2024-11-12 16:38:24.178765
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-12 16:23:24 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 64
+            [user_id] => 1
+            [refresh_token] => 934ff6faa10f6a70940c6cb03fea7fe6
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNzcxOCwiZXhwIjoxNzMxNDE3Nzc4LCJ1aWQiOiIxIn0.r-aR5p_LXWYO_SaXlCe9jYsbS3jxGVmASMaVioq3E0M
+            [rtoken_old] => d5456e3e8d5ca19583daf382d75f7d78
+            [rt_expire] => 2024-11-12 16:36:58
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 64
+                    [user_id] => 1
+                    [refresh_token] => 934ff6faa10f6a70940c6cb03fea7fe6
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxNzcxOCwiZXhwIjoxNzMxNDE3Nzc4LCJ1aWQiOiIxIn0.r-aR5p_LXWYO_SaXlCe9jYsbS3jxGVmASMaVioq3E0M
+                    [rtoken_old] => d5456e3e8d5ca19583daf382d75f7d78
+                    [rt_expire] => 2024-11-12 16:36:58
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-12 16:52:29 : Array
+(
+    [id] => 65
+    [user_id] => 1
+    [refresh_token] => 643d0a49662c24434f5859f2fc4ee874
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxOTI1MywiZXhwIjoxNzMxNDE5MzEzLCJ1aWQiOiIxIn0.bHcL4xxw69HGOkhyKpZf0DiKzdoZ2Eae19ZPf1mcCeI
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-12 17:02:33
+)
+
+2024-11-12 16:52:29 : SELECT * FROM tokens WHERE refresh_token='643d0a49662c24434f5859f2fc4ee874'
+2024-11-12 16:52:29 : DateTime Object
+(
+    [date] => 2024-11-12 17:07:29.722201
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-12 16:52:29 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 65
+            [user_id] => 1
+            [refresh_token] => 643d0a49662c24434f5859f2fc4ee874
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxOTI1MywiZXhwIjoxNzMxNDE5MzEzLCJ1aWQiOiIxIn0.bHcL4xxw69HGOkhyKpZf0DiKzdoZ2Eae19ZPf1mcCeI
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-12 17:02:33
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 65
+                    [user_id] => 1
+                    [refresh_token] => 643d0a49662c24434f5859f2fc4ee874
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxOTI1MywiZXhwIjoxNzMxNDE5MzEzLCJ1aWQiOiIxIn0.bHcL4xxw69HGOkhyKpZf0DiKzdoZ2Eae19ZPf1mcCeI
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-12 17:02:33
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-12 16:56:28 : Array
+(
+    [id] => 65
+    [user_id] => 1
+    [refresh_token] => 17520f6a48b68bbf755b9645b96f1c30
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxOTU0OSwiZXhwIjoxNzMxNDE5NjA5LCJ1aWQiOiIxIn0.0a2sCxRyxkT0dBEu1kRWIizQvNZYVMGyzwRTKWEM4Dc
+    [rtoken_old] => 643d0a49662c24434f5859f2fc4ee874
+    [rt_expire] => 2024-11-12 17:07:29
+)
+
+2024-11-12 16:56:28 : SELECT * FROM tokens WHERE refresh_token='17520f6a48b68bbf755b9645b96f1c30'
+2024-11-12 16:56:28 : DateTime Object
+(
+    [date] => 2024-11-12 17:11:28.418104
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-12 16:56:28 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 65
+            [user_id] => 1
+            [refresh_token] => 17520f6a48b68bbf755b9645b96f1c30
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxOTU0OSwiZXhwIjoxNzMxNDE5NjA5LCJ1aWQiOiIxIn0.0a2sCxRyxkT0dBEu1kRWIizQvNZYVMGyzwRTKWEM4Dc
+            [rtoken_old] => 643d0a49662c24434f5859f2fc4ee874
+            [rt_expire] => 2024-11-12 17:07:29
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 65
+                    [user_id] => 1
+                    [refresh_token] => 17520f6a48b68bbf755b9645b96f1c30
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxOTU0OSwiZXhwIjoxNzMxNDE5NjA5LCJ1aWQiOiIxIn0.0a2sCxRyxkT0dBEu1kRWIizQvNZYVMGyzwRTKWEM4Dc
+                    [rtoken_old] => 643d0a49662c24434f5859f2fc4ee874
+                    [rt_expire] => 2024-11-12 17:07:29
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-12 16:57:48 : Array
+(
+    [id] => 65
+    [user_id] => 1
+    [refresh_token] => 5d8742339a4915fc9bf68fd462bb55a3
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxOTc4OCwiZXhwIjoxNzMxNDE5ODQ4LCJ1aWQiOiIxIn0.bRQlg3Yy_r4UbUGdRSrtzp-3w8vAsH1fO_OXTw2qWPo
+    [rtoken_old] => 17520f6a48b68bbf755b9645b96f1c30
+    [rt_expire] => 2024-11-12 17:11:28
+)
+
+2024-11-12 16:57:48 : SELECT * FROM tokens WHERE refresh_token='5d8742339a4915fc9bf68fd462bb55a3'
+2024-11-12 16:57:48 : DateTime Object
+(
+    [date] => 2024-11-12 17:12:48.049991
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-12 16:57:48 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 65
+            [user_id] => 1
+            [refresh_token] => 5d8742339a4915fc9bf68fd462bb55a3
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxOTc4OCwiZXhwIjoxNzMxNDE5ODQ4LCJ1aWQiOiIxIn0.bRQlg3Yy_r4UbUGdRSrtzp-3w8vAsH1fO_OXTw2qWPo
+            [rtoken_old] => 17520f6a48b68bbf755b9645b96f1c30
+            [rt_expire] => 2024-11-12 17:11:28
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 65
+                    [user_id] => 1
+                    [refresh_token] => 5d8742339a4915fc9bf68fd462bb55a3
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxOTc4OCwiZXhwIjoxNzMxNDE5ODQ4LCJ1aWQiOiIxIn0.bRQlg3Yy_r4UbUGdRSrtzp-3w8vAsH1fO_OXTw2qWPo
+                    [rtoken_old] => 17520f6a48b68bbf755b9645b96f1c30
+                    [rt_expire] => 2024-11-12 17:11:28
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-12 16:58:51 : Array
+(
+    [id] => 65
+    [user_id] => 1
+    [refresh_token] => 27211ba127547714fdaecfc14e87e1e6
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxOTg2OCwiZXhwIjoxNzMxNDE5OTI4LCJ1aWQiOiIxIn0.hzqlGrP2zylADJ61rUnfoymUA67jNXm6VGqPLaLUOS8
+    [rtoken_old] => 5d8742339a4915fc9bf68fd462bb55a3
+    [rt_expire] => 2024-11-12 17:12:48
+)
+
+2024-11-12 16:58:51 : SELECT * FROM tokens WHERE refresh_token='27211ba127547714fdaecfc14e87e1e6'
+2024-11-12 16:58:51 : DateTime Object
+(
+    [date] => 2024-11-12 17:13:51.111891
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-12 16:58:51 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 65
+            [user_id] => 1
+            [refresh_token] => 27211ba127547714fdaecfc14e87e1e6
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxOTg2OCwiZXhwIjoxNzMxNDE5OTI4LCJ1aWQiOiIxIn0.hzqlGrP2zylADJ61rUnfoymUA67jNXm6VGqPLaLUOS8
+            [rtoken_old] => 5d8742339a4915fc9bf68fd462bb55a3
+            [rt_expire] => 2024-11-12 17:12:48
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 65
+                    [user_id] => 1
+                    [refresh_token] => 27211ba127547714fdaecfc14e87e1e6
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQxOTg2OCwiZXhwIjoxNzMxNDE5OTI4LCJ1aWQiOiIxIn0.hzqlGrP2zylADJ61rUnfoymUA67jNXm6VGqPLaLUOS8
+                    [rtoken_old] => 5d8742339a4915fc9bf68fd462bb55a3
+                    [rt_expire] => 2024-11-12 17:12:48
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-12 17:16:23 : Array
+(
+    [id] => 68
+    [user_id] => 1
+    [refresh_token] => 90801803b5b69889edb977d83b7bcbcf
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQyMDkwMCwiZXhwIjoxNzMxNDIwOTYwLCJ1aWQiOiIxIn0.yD-QOzWbseUo4xX4lxsT7Lx0OJEh8UuWBdvWAccbEds
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-12 17:30:00
+)
+
+2024-11-12 17:16:23 : SELECT * FROM tokens WHERE refresh_token='90801803b5b69889edb977d83b7bcbcf'
+2024-11-12 17:16:23 : DateTime Object
+(
+    [date] => 2024-11-12 17:31:23.547120
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-12 17:16:23 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 68
+            [user_id] => 1
+            [refresh_token] => 90801803b5b69889edb977d83b7bcbcf
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQyMDkwMCwiZXhwIjoxNzMxNDIwOTYwLCJ1aWQiOiIxIn0.yD-QOzWbseUo4xX4lxsT7Lx0OJEh8UuWBdvWAccbEds
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-12 17:30:00
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 68
+                    [user_id] => 1
+                    [refresh_token] => 90801803b5b69889edb977d83b7bcbcf
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQyMDkwMCwiZXhwIjoxNzMxNDIwOTYwLCJ1aWQiOiIxIn0.yD-QOzWbseUo4xX4lxsT7Lx0OJEh8UuWBdvWAccbEds
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-12 17:30:00
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-13 09:53:41 : Array
+(
+    [id] => 71
+    [user_id] => 1
+    [refresh_token] => 100db31e1f236eee2883ebe5080c67c9
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MDY1OSwiZXhwIjoxNzMxNDgwNzE5LCJ1aWQiOiIxIn0.txScwCJ2R6MCABqUUI6fE1F2_4Fy84A5dPlG3dsB5X0
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-13 10:05:59
+)
+
+2024-11-13 09:53:41 : SELECT * FROM tokens WHERE refresh_token='100db31e1f236eee2883ebe5080c67c9'
+2024-11-13 09:53:41 : DateTime Object
+(
+    [date] => 2024-11-13 10:08:41.823753
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-13 09:53:41 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 71
+            [user_id] => 1
+            [refresh_token] => 100db31e1f236eee2883ebe5080c67c9
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MDY1OSwiZXhwIjoxNzMxNDgwNzE5LCJ1aWQiOiIxIn0.txScwCJ2R6MCABqUUI6fE1F2_4Fy84A5dPlG3dsB5X0
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-13 10:05:59
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 71
+                    [user_id] => 1
+                    [refresh_token] => 100db31e1f236eee2883ebe5080c67c9
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MDY1OSwiZXhwIjoxNzMxNDgwNzE5LCJ1aWQiOiIxIn0.txScwCJ2R6MCABqUUI6fE1F2_4Fy84A5dPlG3dsB5X0
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-13 10:05:59
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-13 09:59:34 : Array
+(
+    [id] => 73
+    [user_id] => 1
+    [refresh_token] => a6a6b165e7797ac6622e0e1e07063904
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MTA4MCwiZXhwIjoxNzMxNDgxMTQwLCJ1aWQiOiIxIn0.snXIDTElpnNw2QpWYcwHyRRdr83W-UM4KCeKxCj70yE
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-13 10:13:00
+)
+
+2024-11-13 09:59:34 : SELECT * FROM tokens WHERE refresh_token='a6a6b165e7797ac6622e0e1e07063904'
+2024-11-13 09:59:34 : DateTime Object
+(
+    [date] => 2024-11-13 10:14:34.268759
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-13 09:59:34 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 73
+            [user_id] => 1
+            [refresh_token] => a6a6b165e7797ac6622e0e1e07063904
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MTA4MCwiZXhwIjoxNzMxNDgxMTQwLCJ1aWQiOiIxIn0.snXIDTElpnNw2QpWYcwHyRRdr83W-UM4KCeKxCj70yE
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-13 10:13:00
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 73
+                    [user_id] => 1
+                    [refresh_token] => a6a6b165e7797ac6622e0e1e07063904
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MTA4MCwiZXhwIjoxNzMxNDgxMTQwLCJ1aWQiOiIxIn0.snXIDTElpnNw2QpWYcwHyRRdr83W-UM4KCeKxCj70yE
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-13 10:13:00
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-13 10:03:35 : Array
+(
+    [id] => 73
+    [user_id] => 1
+    [refresh_token] => cde6eff4bfb399dfbfc0d87106ca5c90
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MTE3NCwiZXhwIjoxNzMxNDgxMjM0LCJ1aWQiOiIxIn0._bq-JVwnCKHpckihjQveENHAjEb6Fnefyhy3nQJVhJg
+    [rtoken_old] => a6a6b165e7797ac6622e0e1e07063904
+    [rt_expire] => 2024-11-13 10:14:34
+)
+
+2024-11-13 10:03:35 : SELECT * FROM tokens WHERE refresh_token='cde6eff4bfb399dfbfc0d87106ca5c90'
+2024-11-13 10:03:35 : DateTime Object
+(
+    [date] => 2024-11-13 10:18:35.774486
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-13 10:03:35 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 73
+            [user_id] => 1
+            [refresh_token] => cde6eff4bfb399dfbfc0d87106ca5c90
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MTE3NCwiZXhwIjoxNzMxNDgxMjM0LCJ1aWQiOiIxIn0._bq-JVwnCKHpckihjQveENHAjEb6Fnefyhy3nQJVhJg
+            [rtoken_old] => a6a6b165e7797ac6622e0e1e07063904
+            [rt_expire] => 2024-11-13 10:14:34
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 73
+                    [user_id] => 1
+                    [refresh_token] => cde6eff4bfb399dfbfc0d87106ca5c90
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MTE3NCwiZXhwIjoxNzMxNDgxMjM0LCJ1aWQiOiIxIn0._bq-JVwnCKHpckihjQveENHAjEb6Fnefyhy3nQJVhJg
+                    [rtoken_old] => a6a6b165e7797ac6622e0e1e07063904
+                    [rt_expire] => 2024-11-13 10:14:34
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-13 10:12:12 : Array
+(
+    [id] => 74
+    [user_id] => 1
+    [refresh_token] => 8f4d467803116bbcb8c205554db94cea
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MTQxOCwiZXhwIjoxNzMxNDgxNDc4LCJ1aWQiOiIxIn0.R_HNaSgRPg5vjVfViLtt1SzOxsGvAIrOR8bjn145a8Y
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-13 10:18:38
+)
+
+2024-11-13 10:12:12 : SELECT * FROM tokens WHERE refresh_token='8f4d467803116bbcb8c205554db94cea'
+2024-11-13 10:12:12 : DateTime Object
+(
+    [date] => 2024-11-13 10:27:12.940875
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-13 10:12:12 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 74
+            [user_id] => 1
+            [refresh_token] => 8f4d467803116bbcb8c205554db94cea
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MTQxOCwiZXhwIjoxNzMxNDgxNDc4LCJ1aWQiOiIxIn0.R_HNaSgRPg5vjVfViLtt1SzOxsGvAIrOR8bjn145a8Y
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-13 10:18:38
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 74
+                    [user_id] => 1
+                    [refresh_token] => 8f4d467803116bbcb8c205554db94cea
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MTQxOCwiZXhwIjoxNzMxNDgxNDc4LCJ1aWQiOiIxIn0.R_HNaSgRPg5vjVfViLtt1SzOxsGvAIrOR8bjn145a8Y
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-13 10:18:38
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-13 10:21:31 : Array
+(
+    [id] => 75
+    [user_id] => 1
+    [refresh_token] => 18c5e5ae2e3773c4d23f7775430c8d66
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MTk1MiwiZXhwIjoxNzMxNDgyMDEyLCJ1aWQiOiIxIn0.HbkJQcz9zRSaa7uvzY5utr5pUFPk6TWXexTVHxr8k5o
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-13 10:27:32
+)
+
+2024-11-13 10:21:31 : SELECT * FROM tokens WHERE refresh_token='18c5e5ae2e3773c4d23f7775430c8d66'
+2024-11-13 10:21:31 : DateTime Object
+(
+    [date] => 2024-11-13 10:36:31.153280
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-13 10:21:31 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 75
+            [user_id] => 1
+            [refresh_token] => 18c5e5ae2e3773c4d23f7775430c8d66
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MTk1MiwiZXhwIjoxNzMxNDgyMDEyLCJ1aWQiOiIxIn0.HbkJQcz9zRSaa7uvzY5utr5pUFPk6TWXexTVHxr8k5o
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-13 10:27:32
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 75
+                    [user_id] => 1
+                    [refresh_token] => 18c5e5ae2e3773c4d23f7775430c8d66
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTQ4MTk1MiwiZXhwIjoxNzMxNDgyMDEyLCJ1aWQiOiIxIn0.HbkJQcz9zRSaa7uvzY5utr5pUFPk6TWXexTVHxr8k5o
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-13 10:27:32
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-13 17:09:12 : Array
+(
+    [id] => 87
+    [user_id] => 1
+    [refresh_token] => 1d3ab9f22c49fa8b2e1177591c03ac52
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTUwNjgxNCwiZXhwIjoxNzMxNTA2ODc0LCJ1aWQiOiIxIn0.WWopBdYhFrkwM9ubPQIfMoFItr-H8u0fIix4FXssW-4
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-13 17:21:54
+)
+
+2024-11-13 17:09:12 : SELECT * FROM tokens WHERE refresh_token='1d3ab9f22c49fa8b2e1177591c03ac52'
+2024-11-13 17:09:12 : DateTime Object
+(
+    [date] => 2024-11-13 17:24:12.915109
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-13 17:09:12 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 87
+            [user_id] => 1
+            [refresh_token] => 1d3ab9f22c49fa8b2e1177591c03ac52
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTUwNjgxNCwiZXhwIjoxNzMxNTA2ODc0LCJ1aWQiOiIxIn0.WWopBdYhFrkwM9ubPQIfMoFItr-H8u0fIix4FXssW-4
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-13 17:21:54
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 87
+                    [user_id] => 1
+                    [refresh_token] => 1d3ab9f22c49fa8b2e1177591c03ac52
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTUwNjgxNCwiZXhwIjoxNzMxNTA2ODc0LCJ1aWQiOiIxIn0.WWopBdYhFrkwM9ubPQIfMoFItr-H8u0fIix4FXssW-4
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-13 17:21:54
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-13 17:12:29 : Array
+(
+    [id] => 87
+    [user_id] => 1
+    [refresh_token] => 27ba9cb16ee03781139c6bf9179bb5e7
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTUwNjk1MiwiZXhwIjoxNzMxNTA3MDEyLCJ1aWQiOiIxIn0.HrXYtmFPj9FxPvYECaVQQ3yBgA8M1atfjC8NnVjehmw
+    [rtoken_old] => 1d3ab9f22c49fa8b2e1177591c03ac52
+    [rt_expire] => 2024-11-13 17:24:12
+)
+
+2024-11-13 17:12:29 : SELECT * FROM tokens WHERE refresh_token='27ba9cb16ee03781139c6bf9179bb5e7'
+2024-11-13 17:12:30 : DateTime Object
+(
+    [date] => 2024-11-13 17:27:30.010872
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-13 17:12:30 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 87
+            [user_id] => 1
+            [refresh_token] => 27ba9cb16ee03781139c6bf9179bb5e7
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTUwNjk1MiwiZXhwIjoxNzMxNTA3MDEyLCJ1aWQiOiIxIn0.HrXYtmFPj9FxPvYECaVQQ3yBgA8M1atfjC8NnVjehmw
+            [rtoken_old] => 1d3ab9f22c49fa8b2e1177591c03ac52
+            [rt_expire] => 2024-11-13 17:24:12
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 87
+                    [user_id] => 1
+                    [refresh_token] => 27ba9cb16ee03781139c6bf9179bb5e7
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTUwNjk1MiwiZXhwIjoxNzMxNTA3MDEyLCJ1aWQiOiIxIn0.HrXYtmFPj9FxPvYECaVQQ3yBgA8M1atfjC8NnVjehmw
+                    [rtoken_old] => 1d3ab9f22c49fa8b2e1177591c03ac52
+                    [rt_expire] => 2024-11-13 17:24:12
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-13 17:13:59 : Array
+(
+    [id] => 87
+    [user_id] => 1
+    [refresh_token] => 2727d0d2f5a1e6ab4b166a09c26154bd
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTUwNzE1MCwiZXhwIjoxNzMxNTA3MjEwLCJ1aWQiOiIxIn0.g9-RKRWK1Il1_eCkzvDYf1PkGdnwQNyh9SXS43nWc20
+    [rtoken_old] => 27ba9cb16ee03781139c6bf9179bb5e7
+    [rt_expire] => 2024-11-13 17:27:30
+)
+
+2024-11-13 17:13:59 : SELECT * FROM tokens WHERE refresh_token='2727d0d2f5a1e6ab4b166a09c26154bd'
+2024-11-13 17:13:59 : DateTime Object
+(
+    [date] => 2024-11-13 17:28:59.175071
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-13 17:13:59 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 87
+            [user_id] => 1
+            [refresh_token] => 2727d0d2f5a1e6ab4b166a09c26154bd
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTUwNzE1MCwiZXhwIjoxNzMxNTA3MjEwLCJ1aWQiOiIxIn0.g9-RKRWK1Il1_eCkzvDYf1PkGdnwQNyh9SXS43nWc20
+            [rtoken_old] => 27ba9cb16ee03781139c6bf9179bb5e7
+            [rt_expire] => 2024-11-13 17:27:30
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 87
+                    [user_id] => 1
+                    [refresh_token] => 2727d0d2f5a1e6ab4b166a09c26154bd
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTUwNzE1MCwiZXhwIjoxNzMxNTA3MjEwLCJ1aWQiOiIxIn0.g9-RKRWK1Il1_eCkzvDYf1PkGdnwQNyh9SXS43nWc20
+                    [rtoken_old] => 27ba9cb16ee03781139c6bf9179bb5e7
+                    [rt_expire] => 2024-11-13 17:27:30
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-13 17:17:26 : Array
+(
+    [id] => 87
+    [user_id] => 1
+    [refresh_token] => a8c72800b9724e762b897065f0e18bd7
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTUwNzIzOSwiZXhwIjoxNzMxNTA3Mjk5LCJ1aWQiOiIxIn0.uij4J-GQM2jvBya-7RpwjJ6erxALrY1Ett-Dst3nGLA
+    [rtoken_old] => 2727d0d2f5a1e6ab4b166a09c26154bd
+    [rt_expire] => 2024-11-13 17:28:59
+)
+
+2024-11-13 17:17:26 : SELECT * FROM tokens WHERE refresh_token='a8c72800b9724e762b897065f0e18bd7'
+2024-11-13 17:17:26 : DateTime Object
+(
+    [date] => 2024-11-13 17:32:26.657176
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-13 17:17:26 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 87
+            [user_id] => 1
+            [refresh_token] => a8c72800b9724e762b897065f0e18bd7
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTUwNzIzOSwiZXhwIjoxNzMxNTA3Mjk5LCJ1aWQiOiIxIn0.uij4J-GQM2jvBya-7RpwjJ6erxALrY1Ett-Dst3nGLA
+            [rtoken_old] => 2727d0d2f5a1e6ab4b166a09c26154bd
+            [rt_expire] => 2024-11-13 17:28:59
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 87
+                    [user_id] => 1
+                    [refresh_token] => a8c72800b9724e762b897065f0e18bd7
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTUwNzIzOSwiZXhwIjoxNzMxNTA3Mjk5LCJ1aWQiOiIxIn0.uij4J-GQM2jvBya-7RpwjJ6erxALrY1Ett-Dst3nGLA
+                    [rtoken_old] => 2727d0d2f5a1e6ab4b166a09c26154bd
+                    [rt_expire] => 2024-11-13 17:28:59
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-14 16:49:28 : Array
+(
+    [id] => 114
+    [user_id] => 1
+    [refresh_token] => 3262e32da7526e6ca5d4be132cbf2ab2
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5MTgxOSwiZXhwIjoxNzMxNTkxODc5LCJ1aWQiOiIxIn0.2QmQceSm1if9OVNUlO-WDaxbwAZGfjz_k_RY2B4qcss
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-14 16:58:39
+)
+
+2024-11-14 16:49:28 : SELECT * FROM tokens WHERE refresh_token='3262e32da7526e6ca5d4be132cbf2ab2'
+2024-11-14 16:49:29 : DateTime Object
+(
+    [date] => 2024-11-14 17:04:29.072465
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-14 16:49:29 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 114
+            [user_id] => 1
+            [refresh_token] => 3262e32da7526e6ca5d4be132cbf2ab2
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5MTgxOSwiZXhwIjoxNzMxNTkxODc5LCJ1aWQiOiIxIn0.2QmQceSm1if9OVNUlO-WDaxbwAZGfjz_k_RY2B4qcss
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-14 16:58:39
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 114
+                    [user_id] => 1
+                    [refresh_token] => 3262e32da7526e6ca5d4be132cbf2ab2
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5MTgxOSwiZXhwIjoxNzMxNTkxODc5LCJ1aWQiOiIxIn0.2QmQceSm1if9OVNUlO-WDaxbwAZGfjz_k_RY2B4qcss
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-14 16:58:39
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-14 16:50:34 : Array
+(
+    [id] => 114
+    [user_id] => 1
+    [refresh_token] => 7e18779d83b8e86c1e4e23be2c01844d
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5MjE2OSwiZXhwIjoxNzMxNTkyMjI5LCJ1aWQiOiIxIn0.YNo6m96VgCQQcuV4yiBHPys2MK-aKApbxL1q0HW6ceA
+    [rtoken_old] => 3262e32da7526e6ca5d4be132cbf2ab2
+    [rt_expire] => 2024-11-14 17:04:29
+)
+
+2024-11-14 16:50:34 : SELECT * FROM tokens WHERE refresh_token='7e18779d83b8e86c1e4e23be2c01844d'
+2024-11-14 16:50:34 : DateTime Object
+(
+    [date] => 2024-11-14 17:05:34.352009
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-14 16:50:34 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 114
+            [user_id] => 1
+            [refresh_token] => 7e18779d83b8e86c1e4e23be2c01844d
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5MjE2OSwiZXhwIjoxNzMxNTkyMjI5LCJ1aWQiOiIxIn0.YNo6m96VgCQQcuV4yiBHPys2MK-aKApbxL1q0HW6ceA
+            [rtoken_old] => 3262e32da7526e6ca5d4be132cbf2ab2
+            [rt_expire] => 2024-11-14 17:04:29
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 114
+                    [user_id] => 1
+                    [refresh_token] => 7e18779d83b8e86c1e4e23be2c01844d
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5MjE2OSwiZXhwIjoxNzMxNTkyMjI5LCJ1aWQiOiIxIn0.YNo6m96VgCQQcuV4yiBHPys2MK-aKApbxL1q0HW6ceA
+                    [rtoken_old] => 3262e32da7526e6ca5d4be132cbf2ab2
+                    [rt_expire] => 2024-11-14 17:04:29
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-14 16:59:31 : Array
+(
+    [id] => 115
+    [user_id] => 1
+    [refresh_token] => 575b75130fe7a222bc085645c8dfce38
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5MjM2NiwiZXhwIjoxNzMxNTkyNDI2LCJ1aWQiOiIxIn0.oN6sB7CeNeJXRHDVk3xI8VSxTQ6VYSyOuLPLWrMFHKg
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-14 17:07:46
+)
+
+2024-11-14 16:59:31 : SELECT * FROM tokens WHERE refresh_token='575b75130fe7a222bc085645c8dfce38'
+2024-11-14 16:59:31 : DateTime Object
+(
+    [date] => 2024-11-14 17:14:31.899428
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-14 16:59:31 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 115
+            [user_id] => 1
+            [refresh_token] => 575b75130fe7a222bc085645c8dfce38
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5MjM2NiwiZXhwIjoxNzMxNTkyNDI2LCJ1aWQiOiIxIn0.oN6sB7CeNeJXRHDVk3xI8VSxTQ6VYSyOuLPLWrMFHKg
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-14 17:07:46
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 115
+                    [user_id] => 1
+                    [refresh_token] => 575b75130fe7a222bc085645c8dfce38
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5MjM2NiwiZXhwIjoxNzMxNTkyNDI2LCJ1aWQiOiIxIn0.oN6sB7CeNeJXRHDVk3xI8VSxTQ6VYSyOuLPLWrMFHKg
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-14 17:07:46
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-14 17:00:32 : Array
+(
+    [id] => 115
+    [user_id] => 1
+    [refresh_token] => b9459fe6078e1a254ed6e2fe96bcaa0f
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5Mjc3MSwiZXhwIjoxNzMxNTkyODMxLCJ1aWQiOiIxIn0.Ws_j2XC0yQfsMbygnEVZzoF5ZIErW9DR96dZqMDhF_o
+    [rtoken_old] => 575b75130fe7a222bc085645c8dfce38
+    [rt_expire] => 2024-11-14 17:14:31
+)
+
+2024-11-14 17:00:32 : SELECT * FROM tokens WHERE refresh_token='b9459fe6078e1a254ed6e2fe96bcaa0f'
+2024-11-14 17:00:32 : DateTime Object
+(
+    [date] => 2024-11-14 17:15:32.211661
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-14 17:00:32 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 115
+            [user_id] => 1
+            [refresh_token] => b9459fe6078e1a254ed6e2fe96bcaa0f
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5Mjc3MSwiZXhwIjoxNzMxNTkyODMxLCJ1aWQiOiIxIn0.Ws_j2XC0yQfsMbygnEVZzoF5ZIErW9DR96dZqMDhF_o
+            [rtoken_old] => 575b75130fe7a222bc085645c8dfce38
+            [rt_expire] => 2024-11-14 17:14:31
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 115
+                    [user_id] => 1
+                    [refresh_token] => b9459fe6078e1a254ed6e2fe96bcaa0f
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5Mjc3MSwiZXhwIjoxNzMxNTkyODMxLCJ1aWQiOiIxIn0.Ws_j2XC0yQfsMbygnEVZzoF5ZIErW9DR96dZqMDhF_o
+                    [rtoken_old] => 575b75130fe7a222bc085645c8dfce38
+                    [rt_expire] => 2024-11-14 17:14:31
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-14 17:04:03 : Array
+(
+    [id] => 116
+    [user_id] => 1
+    [refresh_token] => 322f0b76312e0c18a110973ef3ca12fe
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5Mjk3MSwiZXhwIjoxNzMxNTkzMDMxLCJ1aWQiOiIxIn0.uGdTSC4M9MS7PMLC9y80zrM9pqCWtP3IQn35ThkhU-Q
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-14 17:17:51
+)
+
+2024-11-14 17:04:03 : SELECT * FROM tokens WHERE refresh_token='322f0b76312e0c18a110973ef3ca12fe'
+2024-11-14 17:04:03 : DateTime Object
+(
+    [date] => 2024-11-14 17:19:03.197016
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-14 17:04:03 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 116
+            [user_id] => 1
+            [refresh_token] => 322f0b76312e0c18a110973ef3ca12fe
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5Mjk3MSwiZXhwIjoxNzMxNTkzMDMxLCJ1aWQiOiIxIn0.uGdTSC4M9MS7PMLC9y80zrM9pqCWtP3IQn35ThkhU-Q
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-14 17:17:51
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 116
+                    [user_id] => 1
+                    [refresh_token] => 322f0b76312e0c18a110973ef3ca12fe
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTU5Mjk3MSwiZXhwIjoxNzMxNTkzMDMxLCJ1aWQiOiIxIn0.uGdTSC4M9MS7PMLC9y80zrM9pqCWtP3IQn35ThkhU-Q
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-14 17:17:51
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-15 12:05:30 : Array
+(
+    [id] => 127
+    [user_id] => 1
+    [refresh_token] => 76013632ede80627895152bbafede8c7
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MDg2NiwiZXhwIjoxNzMxNjYwOTI2LCJ1aWQiOiIxIn0.zOTHAc9Wa9SnyEql146sUqVq7p4zqCwPAYtq3hBu4Vw
+    [rtoken_old] => 
+    [rt_expire] => 2024-11-15 12:09:26
+)
+
+2024-11-15 12:05:30 : SELECT * FROM tokens WHERE refresh_token='76013632ede80627895152bbafede8c7'
+2024-11-15 12:05:30 : DateTime Object
+(
+    [date] => 2024-11-15 12:20:30.148201
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-15 12:05:30 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 127
+            [user_id] => 1
+            [refresh_token] => 76013632ede80627895152bbafede8c7
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MDg2NiwiZXhwIjoxNzMxNjYwOTI2LCJ1aWQiOiIxIn0.zOTHAc9Wa9SnyEql146sUqVq7p4zqCwPAYtq3hBu4Vw
+            [rtoken_old] => 
+            [rt_expire] => 2024-11-15 12:09:26
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 127
+                    [user_id] => 1
+                    [refresh_token] => 76013632ede80627895152bbafede8c7
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MDg2NiwiZXhwIjoxNzMxNjYwOTI2LCJ1aWQiOiIxIn0.zOTHAc9Wa9SnyEql146sUqVq7p4zqCwPAYtq3hBu4Vw
+                    [rtoken_old] => 
+                    [rt_expire] => 2024-11-15 12:09:26
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-15 12:12:01 : Array
+(
+    [id] => 127
+    [user_id] => 1
+    [refresh_token] => f2fac5daa2d63c75ba96bb9dd1d97164
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MTUzMCwiZXhwIjoxNzMxNjYxNTkwLCJ1aWQiOiIxIn0._n4DQGTDfZJUpb5aC6jDh9loUP5EcbN5J45uwxypFog
+    [rtoken_old] => 76013632ede80627895152bbafede8c7
+    [rt_expire] => 2024-11-15 12:20:30
+)
+
+2024-11-15 12:12:01 : SELECT * FROM tokens WHERE refresh_token='f2fac5daa2d63c75ba96bb9dd1d97164'
+2024-11-15 12:12:01 : DateTime Object
+(
+    [date] => 2024-11-15 12:27:01.865902
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-15 12:12:01 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 127
+            [user_id] => 1
+            [refresh_token] => f2fac5daa2d63c75ba96bb9dd1d97164
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MTUzMCwiZXhwIjoxNzMxNjYxNTkwLCJ1aWQiOiIxIn0._n4DQGTDfZJUpb5aC6jDh9loUP5EcbN5J45uwxypFog
+            [rtoken_old] => 76013632ede80627895152bbafede8c7
+            [rt_expire] => 2024-11-15 12:20:30
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 127
+                    [user_id] => 1
+                    [refresh_token] => f2fac5daa2d63c75ba96bb9dd1d97164
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MTUzMCwiZXhwIjoxNzMxNjYxNTkwLCJ1aWQiOiIxIn0._n4DQGTDfZJUpb5aC6jDh9loUP5EcbN5J45uwxypFog
+                    [rtoken_old] => 76013632ede80627895152bbafede8c7
+                    [rt_expire] => 2024-11-15 12:20:30
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-15 12:15:11 : Array
+(
+    [id] => 127
+    [user_id] => 1
+    [refresh_token] => a89ead2f042d5cb41d52ccdb47c6fd2b
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MTkyMSwiZXhwIjoxNzMxNjYxOTgxLCJ1aWQiOiIxIn0.3BlhGx4cR3owttKyYbb9Q1J09GdDFv1F--k7ve58u_o
+    [rtoken_old] => f2fac5daa2d63c75ba96bb9dd1d97164
+    [rt_expire] => 2024-11-15 12:27:01
+)
+
+2024-11-15 12:15:11 : SELECT * FROM tokens WHERE refresh_token='a89ead2f042d5cb41d52ccdb47c6fd2b'
+2024-11-15 12:15:11 : DateTime Object
+(
+    [date] => 2024-11-15 12:30:11.961643
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-15 12:15:11 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 127
+            [user_id] => 1
+            [refresh_token] => a89ead2f042d5cb41d52ccdb47c6fd2b
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MTkyMSwiZXhwIjoxNzMxNjYxOTgxLCJ1aWQiOiIxIn0.3BlhGx4cR3owttKyYbb9Q1J09GdDFv1F--k7ve58u_o
+            [rtoken_old] => f2fac5daa2d63c75ba96bb9dd1d97164
+            [rt_expire] => 2024-11-15 12:27:01
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 127
+                    [user_id] => 1
+                    [refresh_token] => a89ead2f042d5cb41d52ccdb47c6fd2b
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MTkyMSwiZXhwIjoxNzMxNjYxOTgxLCJ1aWQiOiIxIn0.3BlhGx4cR3owttKyYbb9Q1J09GdDFv1F--k7ve58u_o
+                    [rtoken_old] => f2fac5daa2d63c75ba96bb9dd1d97164
+                    [rt_expire] => 2024-11-15 12:27:01
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-15 12:18:55 : Array
+(
+    [id] => 127
+    [user_id] => 1
+    [refresh_token] => ec24434aa77f41f0070152f90e9813be
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MjExMSwiZXhwIjoxNzMxNjYyMTcxLCJ1aWQiOiIxIn0.zVRumTAy1BQab40HuC9YmQ-gh5tvvzLBLzr-RShQt74
+    [rtoken_old] => a89ead2f042d5cb41d52ccdb47c6fd2b
+    [rt_expire] => 2024-11-15 12:30:11
+)
+
+2024-11-15 12:18:55 : SELECT * FROM tokens WHERE refresh_token='ec24434aa77f41f0070152f90e9813be'
+2024-11-15 12:18:55 : DateTime Object
+(
+    [date] => 2024-11-15 12:33:55.656485
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-15 12:18:55 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 127
+            [user_id] => 1
+            [refresh_token] => ec24434aa77f41f0070152f90e9813be
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MjExMSwiZXhwIjoxNzMxNjYyMTcxLCJ1aWQiOiIxIn0.zVRumTAy1BQab40HuC9YmQ-gh5tvvzLBLzr-RShQt74
+            [rtoken_old] => a89ead2f042d5cb41d52ccdb47c6fd2b
+            [rt_expire] => 2024-11-15 12:30:11
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 127
+                    [user_id] => 1
+                    [refresh_token] => ec24434aa77f41f0070152f90e9813be
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MjExMSwiZXhwIjoxNzMxNjYyMTcxLCJ1aWQiOiIxIn0.zVRumTAy1BQab40HuC9YmQ-gh5tvvzLBLzr-RShQt74
+                    [rtoken_old] => a89ead2f042d5cb41d52ccdb47c6fd2b
+                    [rt_expire] => 2024-11-15 12:30:11
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-15 12:20:02 : Array
+(
+    [id] => 127
+    [user_id] => 1
+    [refresh_token] => 3eeb65b5efe1658a02ea8e8d9dd21de1
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MjMzNSwiZXhwIjoxNzMxNjYyMzk1LCJ1aWQiOiIxIn0.GJmZvWT9MZqQAd5cM8eIh7Iw8_0aBvKKidxGMGEzYkM
+    [rtoken_old] => ec24434aa77f41f0070152f90e9813be
+    [rt_expire] => 2024-11-15 12:33:55
+)
+
+2024-11-15 12:20:02 : SELECT * FROM tokens WHERE refresh_token='3eeb65b5efe1658a02ea8e8d9dd21de1'
+2024-11-15 12:20:02 : DateTime Object
+(
+    [date] => 2024-11-15 12:35:02.423229
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-15 12:20:02 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 127
+            [user_id] => 1
+            [refresh_token] => 3eeb65b5efe1658a02ea8e8d9dd21de1
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MjMzNSwiZXhwIjoxNzMxNjYyMzk1LCJ1aWQiOiIxIn0.GJmZvWT9MZqQAd5cM8eIh7Iw8_0aBvKKidxGMGEzYkM
+            [rtoken_old] => ec24434aa77f41f0070152f90e9813be
+            [rt_expire] => 2024-11-15 12:33:55
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 127
+                    [user_id] => 1
+                    [refresh_token] => 3eeb65b5efe1658a02ea8e8d9dd21de1
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MjMzNSwiZXhwIjoxNzMxNjYyMzk1LCJ1aWQiOiIxIn0.GJmZvWT9MZqQAd5cM8eIh7Iw8_0aBvKKidxGMGEzYkM
+                    [rtoken_old] => ec24434aa77f41f0070152f90e9813be
+                    [rt_expire] => 2024-11-15 12:33:55
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+
+2024-11-15 12:25:52 : Array
+(
+    [id] => 127
+    [user_id] => 1
+    [refresh_token] => 8428668fe84bcb833b78a58d7b8bd038
+    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MjQwMiwiZXhwIjoxNzMxNjYyNDYyLCJ1aWQiOiIxIn0.3jhcKTkn7k5Ka2q8sxy3M5QsEzBrDTm_Efc-unNl-fM
+    [rtoken_old] => 3eeb65b5efe1658a02ea8e8d9dd21de1
+    [rt_expire] => 2024-11-15 12:35:02
+)
+
+2024-11-15 12:25:52 : SELECT * FROM tokens WHERE refresh_token='8428668fe84bcb833b78a58d7b8bd038'
+2024-11-15 12:25:52 : DateTime Object
+(
+    [date] => 2024-11-15 12:40:52.794568
+    [timezone_type] => 3
+    [timezone] => Europe/Moscow
+)
+
+2024-11-15 12:25:52 : RedBeanPHP\OODBBean Object
+(
+    [properties:protected] => Array
+        (
+            [id] => 127
+            [user_id] => 1
+            [refresh_token] => 8428668fe84bcb833b78a58d7b8bd038
+            [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MjQwMiwiZXhwIjoxNzMxNjYyNDYyLCJ1aWQiOiIxIn0.3jhcKTkn7k5Ka2q8sxy3M5QsEzBrDTm_Efc-unNl-fM
+            [rtoken_old] => 3eeb65b5efe1658a02ea8e8d9dd21de1
+            [rt_expire] => 2024-11-15 12:35:02
+        )
+
+    [__info:protected] => Array
+        (
+            [type] => tokens
+            [sys.id] => id
+            [sys.orig] => Array
+                (
+                    [id] => 127
+                    [user_id] => 1
+                    [refresh_token] => 8428668fe84bcb833b78a58d7b8bd038
+                    [access_token] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImZvbyI6ImJhciJ9.eyJpc3MiOiJodHRwOlwvXC9leGFtcGxlLmNvbSIsImF1ZCI6Imh0dHA6XC9cL2V4YW1wbGUuY29tIiwianRpIjoiMSIsImlhdCI6MTczMTY2MjQwMiwiZXhwIjoxNzMxNjYyNDYyLCJ1aWQiOiIxIn0.3jhcKTkn7k5Ka2q8sxy3M5QsEzBrDTm_Efc-unNl-fM
+                    [rtoken_old] => 3eeb65b5efe1658a02ea8e8d9dd21de1
+                    [rt_expire] => 2024-11-15 12:35:02
+                )
+
+            [tainted] => 
+            [changed] => 
+            [changelist] => Array
+                (
+                )
+
+            [model] => 
+        )
+
+    [beanHelper:protected] => RedBeanPHP\BeanHelper\SimpleFacadeBeanHelper Object
+        (
+        )
+
+    [fetchType:protected] => 
+    [withSql:protected] => 
+    [withParams:protected] => Array
+        (
+        )
+
+    [aliasName:protected] => 
+    [via:protected] => 
+    [noLoad:protected] => 
+    [all:protected] => 
+    [castProperty:protected] => 
+)
+

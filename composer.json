@@ -1,0 +1,22 @@
+{
+    "name": "user/muzeum",
+    "type": "project",
+    "license": "mit",    
+    "authors": [
+        {
+            "name": "1datr"
+        }
+    ],
+    "require": {
+        "pecee/simple-router": "*",
+        "lcobucci/jwt": "^3.4",
+        "ext-json": "*",
+        "vlucas/phpdotenv": "^4.2",
+        "gabordemooij/redbean": "^5.7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": ""
+        }
+    }
+}
